@@ -2,7 +2,6 @@
 
 JSP, Servlet and Database
 <hr>
-  ## Tools
   1. JSP
   2. Servlets
   3. MVC Design Pattern
