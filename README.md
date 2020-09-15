@@ -2,12 +2,15 @@
 
 JSP, Servlet and Database
 <hr>
-<ul>
-  <li>List Employee<li/>
-  <li>Add a new Employee<li/>
-  <li>Update an Employee<li/>
-  <li>Delete an Employee<li/>
-<ul/>
+  ## Tools
+  1. JSP
+  2. Servlets
+  3. MVC Design Pattern
+  4. MySQL Workbench
+  5. Bootstrap
+  6. Eclipse IDE
+  7. Apache Tomcat
 <hr>
-<p>open src/com/vusi/util/DBConnectionUtil.java file for connection.<p/>
-
+<div>
+  <p>open src/com/vusi/util/DBConnectionUtil.java file for connection.<p/>
+<div/>
